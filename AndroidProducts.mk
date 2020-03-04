@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_river.mk
+    $(LOCAL_DIR)/aosp_ocean_BlissRoms.mk
